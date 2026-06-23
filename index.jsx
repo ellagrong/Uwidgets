@@ -39,7 +39,7 @@ export const render = ({ output = "" }) => {
     <div
       style={{
         width: "260px",
-        background: "#6f2f3f",
+        background: "rgba(111, 47, 63, 0.82)",
         color: "#f7f3f3",
         fontFamily: "Georgia, 'Times New Roman', serif",
         padding: "20px 22px",
