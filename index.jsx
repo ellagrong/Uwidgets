@@ -4,7 +4,7 @@ export const refreshFrequency = 60 * 60 * 1000 // 1 hour
 export const label = "Chinese Flashcard"
 export const icon = "🀄"
 
-const phraseFilePath = '/Users/gagalund/Library/Application Support/Übersicht/widgets/rotating-phrases.widget/phrases.txt'
+const phraseFilePath = './rotating-phrases.widget/phrases.txt'
 
 export const command = `cat "${phraseFilePath}"`
 
